@@ -6,6 +6,8 @@ A text-based trading game set in Beijing, where players buy and sell goods to ma
 
 Acknowledgement and love to the original author <https://github.com/chrisguo/beijing_fushengji>
 
+![Game screenshot]](beijing_screenshot.png)
+
 ## English Instructions
 
 ### Installation
