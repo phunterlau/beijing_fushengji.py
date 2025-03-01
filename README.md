@@ -8,6 +8,8 @@ Acknowledgement and love to the original author <https://github.com/chrisguo/bei
 
 ![Game screenshot](beijing_screenshot.png)
 
+All trading goods and logic come from the original game setting. The python version author may not agree on certain names.
+
 ## English Instructions
 
 ### Installation
